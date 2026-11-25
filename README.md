@@ -4,6 +4,8 @@ A product analytics project built in Excel with Power Query and Power Pivot, tur
 
 **Tools:** Excel · Power Query · Power Pivot · PivotTables · PowerPoint
 
+![Retention dashboard](retention-dashboard.png)
+
 ## The question
 
 How healthy is the subscription business? Specifically: how does churn vary by plan, which acquisition channels bring in the highest-value users, why do people leave, and do users who churn behave differently before they go?
@@ -39,6 +41,16 @@ How healthy is the subscription business? Specifically: how does churn vary by p
 ## Skills demonstrated
 
 Data preparation and cleaning in Power Query · data modelling and one-to-many relationships in Power Pivot · working with multiple related CSV datasets · date and text functions · KPI and PivotTable design · slicers and timelines for interactive reporting · dashboard design and presenting insight to stakeholders.
+## Files in this repository
+
+| File | What it is |
+| --- | --- |
+| `retention-dashboard.png` | The finished dashboard |
+| `product-analysis-power-query.xlsx` | The working file: Power Query steps, data model, PivotTables and dashboard |
+| `product-raw-data.xlsx` | The raw dataset before cleaning |
+| `retention-dashboard-report.pptx` | The stakeholder presentation |
+| `project-workflow.docx` | The full project workflow write-up |
+
 
 ---
 
